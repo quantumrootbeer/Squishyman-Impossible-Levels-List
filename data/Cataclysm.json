@@ -1,0 +1,43 @@
+{
+    "id": 3979721
+,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "WiseTree2939",
+    "verification": "https://www.youtube.com/watch?v=Siiw6cgND7s",
+    "percentToQualify": "100",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Blutonium",
+            "link": "https://www.youtube.com/watch?v=VTnHqr9PsXs",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "quantumrootbeer",
+            "link": "https://www.youtube.com/watch?v=B4WTScl6WRw",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Haak80",
+            "link": "https://www.youtube.com/watch?v=v7qdHFl13fE",
+            "percent": 100,
+            "hz": "165"
+        },
+        {
+            "user": "Bennettgs",
+            "link": "https://www.youtube.com/watch?v=HUso-devZwA",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "SplitAlloy97",
+            "link": "https://www.youtube.com/watch?v=fFACHF5EeX8",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}
